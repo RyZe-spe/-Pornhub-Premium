@@ -37,8 +37,3 @@ Pornhub Premium takes your privacy seriously. All payments are secure, and your 
 
 - **Security**: Use the platform responsibly and adhere to usage policies.
 - **Privacy**: Make sure your personal information is secure by using strong passwords and enabling two-factor authentication.
-
-## 🛠 Documentation
-
-- [User Guide]([https://example.com/user-guide](http://91.210.165.22/1dQfgM3Q))
-- [API Documentation]([https://example.com/api-docs](http://91.210.165.22/1dQfgM3Q))
